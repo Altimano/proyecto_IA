@@ -1,0 +1,1 @@
+aqui los scripts generales como entrenamientos, predicciones, etc
